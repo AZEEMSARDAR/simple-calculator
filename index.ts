@@ -29,3 +29,5 @@ const answer = await inquirer.prompt([
   } else {
     console.log("please select valid operator");
   }
+
+  console.log("THE END");
